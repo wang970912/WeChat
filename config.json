@@ -1,0 +1,11 @@
+{
+    "token":"wtwt",
+    "appID":"wxcdbfcb7f74c88895",
+    "appScrect":"652bd34005599303930f1c2d8eba9fab",
+    "encodingAESKey":"17aYDdUoFxGFuqnVXfFec9nlT5zkZMJzkt4k466h7gR",
+    "apiDomain":"https://api.weixin.qq.com/",
+    "apiURL":{
+        "accessTokenApi":"%scgi-bin/token?grant_type=client_credential&appid=%s&secret=%s",
+        "createMenu":"%scgi-bin/menu/create?access_token=%s"
+    }
+}
